@@ -1,6 +1,6 @@
 
 
-🎒 welcome to Day 2: Embeddings and Vector Stores/Databases
+🎒 Welcome to Day 2: Embeddings and Vector Stores/Databases
 ---
 
 Welcome back Learner,
