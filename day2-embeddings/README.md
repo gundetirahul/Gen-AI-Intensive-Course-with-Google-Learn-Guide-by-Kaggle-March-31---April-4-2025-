@@ -8,7 +8,7 @@ Welcome back Learner,
 **Complete Unit 2: “Embeddings and Vector Stores/ Databases”**
 
 - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=4) for this unit.
-- To complement the podcast, read the [“Embeddings and Vector Stores/ Databases”](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores) whitepaper.
+- To complement the podcast, read the [“Embeddings and Vector Stores/ Databases”](https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view) whitepaper.
 
 - Complete these codelabs on Kaggle:
     - [Build](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag) a RAG question-answering system over custom documents.
