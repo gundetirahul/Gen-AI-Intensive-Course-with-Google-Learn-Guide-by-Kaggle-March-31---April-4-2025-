@@ -21,3 +21,5 @@ Welcome back Learner,
 ----
 
 Today you will learn about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.
+
+Happy Learning!
