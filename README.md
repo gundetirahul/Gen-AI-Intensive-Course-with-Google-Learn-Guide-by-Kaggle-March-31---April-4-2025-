@@ -4,7 +4,6 @@
 ---
 ![image](https://github.com/user-attachments/assets/359e6f8b-b5a8-4cd6-bc52-e68531e79c07)
 
-It’s a 5-day online course designed to help developers dive deep into the basics of the technologies and techniques behind Generative AI (Gen AI). Created by a team of Google’s ML researchers and engineers, this program includes both conceptual in-depth analyses and hands-on coding examples so you can tackle new Gen AI projects with confidence.
 
 ❔What is the 5-Day Generative AI Intensive?
 --- 
