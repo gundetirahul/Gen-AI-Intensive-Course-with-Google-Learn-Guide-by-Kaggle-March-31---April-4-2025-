@@ -1,5 +1,6 @@
 
-## **🎒 Welcome to Day 1 (Foundational Large Language Models & Prompt Engineering)**
+🎒 Welcome to Day 1: Foundational Large Language Models & Prompt Engineering
+----
 
 
 Hello Learner,
