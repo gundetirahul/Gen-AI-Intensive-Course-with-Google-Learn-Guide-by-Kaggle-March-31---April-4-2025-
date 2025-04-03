@@ -8,12 +8,12 @@ Hello Learner,
 **1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”:**
 
 - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) for this unit.
-- To complement the podcast, read the [“Foundational Large Language Models & Text Generation”](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation) whitepaper. 
+- To complement the podcast, read the [“Foundational Large Language Models & Text Generation”](https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view) whitepaper. 
 
 **2. Complete Unit 1 – “Prompt Engineering”:**
 
 - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3) for this unit.
-- To complement the podcast, read the [“Prompt Engineering”](https://www.kaggle.com/whitepaper-prompt-engineering) whitepaper.
+- To complement the podcast, read the [“Prompt Engineering”](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view) whitepaper.
 - Complete these codelabs on Kaggle:
      - [Prompting fundamentals](https://www.kaggle.com/code/markishere/day-1-prompting)
      - [Evaluation and structured data](https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output)
